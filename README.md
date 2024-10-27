@@ -42,6 +42,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Zuitow/Zuitow/output/snake.svg" alt="Snake animation" />
 
-###
