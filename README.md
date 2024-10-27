@@ -12,7 +12,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&width=451&height=66&lines=The+Messmer's+Flame...)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&height=66&lines=The+Messmer's+Flame..." alt="Typing SVG" /></a>
 
 ###
 
