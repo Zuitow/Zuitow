@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">Welcome to my page...</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&width=451&height=66&lines=The+Messmer's+Flame...)](https://git.io/typing-svg)
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zuitow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuitow&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 
 
