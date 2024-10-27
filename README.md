@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Programador Back-End👾<br>- Caseiro🏠<br>- Cristão✝<br>- Music Lover🎶<br>- Cursando Análise e Des. Sistemas💻</p>
+<p align="left">- Programador Back-End👾<br>- Caseiro🏠<br>- Cristão✝<br>- Music Lover🎶<br>- Gamer🎮<br>- Cursando Análise e Des. Sistemas💻</p>
 
 ###
 
