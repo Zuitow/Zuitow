@@ -10,7 +10,6 @@
   <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" alt="GitHub GIF" style="height:200px;"/>
 </div>
 
-
 ###
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&height=66&lines=Programming+Fire..." alt="Typing SVG" /></a>
