@@ -6,13 +6,12 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFramFpMmtyZGFvNW9rdW1vaWZnc3FmZjFxdm90ZXBwZXoxanIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif"  />
-</div>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFramFpMmtyZGFvNW9rdW1vaWZnc3FmZjFxdm90ZXBwZXoxanIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif)
+
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&height=66&lines=Programming's+Fire..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&height=66&lines=Programming+Fire..." alt="Typing SVG" /></a>
 
 ###
 
