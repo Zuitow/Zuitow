@@ -10,7 +10,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFramFpMmtyZGFvNW9rdW1vaWZnc3FmZjFxdm90ZXBwZXoxanIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" alt="GIF" style="height:200px;" />
 </div>
 
-
 ###
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=35&pause=1000&color=F73927&center=true&vCenter=true&height=66&lines=Programming+Fire..." alt="Typing SVG" /></a>
