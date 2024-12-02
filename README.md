@@ -7,8 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFramFpMmtyZGFvNW9rdW1vaWZnc3FmZjFxdm90ZXBwZXoxanIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" alt="GIF" style="height:200px;" />
+  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" alt="GitHub GIF" style="height:200px;"/>
 </div>
+
 
 ###
 
