@@ -49,6 +49,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
         <p>Node.js</p>
       </td>
+<td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        <p>Visual Code</p>
+      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="40" alt="axios logo" />
         <p>Axios</p>
