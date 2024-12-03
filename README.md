@@ -18,40 +18,41 @@
 
 ###
 
-<div align="center" display="flex">
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <p>JavaScript</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     <p>MySQL</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
     <p>React</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <p>HTML5</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <p>CSS3</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
     <p>Insomnia</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
     <p>Node.js</p>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="40" alt="axios logo" />
     <p>Axios</p>
   </div>
 </div>
+
 
 
 ###
