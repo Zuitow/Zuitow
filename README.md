@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="center" display="flex">
   <div style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <p>JavaScript</p>
