@@ -50,7 +50,7 @@
         <p>Node.js</p>
       </td>
 <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
         <p>Visual Code</p>
       </td>
       <td align="center">
